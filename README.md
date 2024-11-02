@@ -10,4 +10,3 @@ This repository contains reusable Terraform modules for provisioning infrastruct
 1. Clone this repository:
    ```bash
    git clone https://github.com/hhsakaa/terraform-modules.git
-   cd terraform-modules
